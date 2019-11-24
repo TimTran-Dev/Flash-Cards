@@ -1,0 +1,18 @@
+* {
+  box-sizing: border-box;
+}
+body {
+  text-align: center;
+  background-image: url("img/study.jpeg");
+  background-size: 100%;
+}
+.main h1 {
+  font-size: 2rem;
+}
+.main p {
+  font-size: 1.5rem;
+  margin-bottom: 8%;
+}
+.main a {
+  padding-left: 4%;
+}
