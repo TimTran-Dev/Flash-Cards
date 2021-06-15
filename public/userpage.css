@@ -25,3 +25,7 @@ body {
   margin-top: 5%;
   margin-left: 2%;
 }
+input {
+  float: left;
+  margin-left: 18%;
+}
